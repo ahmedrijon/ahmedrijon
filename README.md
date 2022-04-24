@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **rejoan.rijon@gmail.com**
 
-- 📄 Know about my experiences [Resume/CV](https://github.com/ahmedrijon/Resume-CV.git)
+- 📄 Know about my experiences [Resume/CV](https://github.com/ahmedrijon/Resume-CV/raw/main/CV-.pdf)
 
 - ⚡ Fun fact **I'm an interesting person**
 
