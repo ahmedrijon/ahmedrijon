@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Python Programming**
 
-- 👯 I’m looking to collaborate on **Python Programming**
-
-- 🤝 I’m looking for help **about API and .net platform**
-
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedrijon](https://github.com/ahmedrijon)
 
 - 💬 Ask me about **html, css, javascript, php**
