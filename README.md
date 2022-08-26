@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedrijon&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrijon" /> </p>
 
-- 🔭 I’m currently a student of **IUBAT - International University of Business Agriculture and Technology**
+- 🔭 I’m currently a **Student**
 
 - 🌱 I’m currently learning **Python Programming**
 
