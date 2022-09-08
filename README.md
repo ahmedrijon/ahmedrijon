@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedrijon](https://github.com/ahmedrijon)
 
-- 💬 Ask me about **html, css, javascript, php**
+- 💬 Ask me about **html, css, javascript, php, bootstrap**
 
 - 📫 How to reach me **rejoan.rijon@gmail.com**
 
