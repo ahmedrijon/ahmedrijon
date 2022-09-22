@@ -18,6 +18,6 @@
 <a href="https://instagram.com/rejoan_ahmed98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rejoan_ahmed98" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrijon&show_icons=true&locale=en&layout=compact" alt="ahmedrijon" /</br>></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedrijon&show_icons=true&locale=en&layout=compact" alt="ahmedrijon" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedrijon&" alt="ahmedrijon" /></p>
