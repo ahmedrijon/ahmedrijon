@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web Design And Development**
 
-- 📫 How to reach me **rejoan.rijon@gmail.com**
+- 📫 To reach me **rejoan.rijon@gmail.com**
 
 - ⚡ Fun fact **I'm an interesting person**
 
