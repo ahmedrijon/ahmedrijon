@@ -1,5 +1,6 @@
 <h1 align="center">Hi there 👋 This is Rejoan Ahmed.</h1>
-<h3 align="center">I'm a self-learning and positive person who always tries to spread the positivity among others.</h3>
+<h3 align="left">💡 About Me
+I'm a Full-stack Web developer and also a software developer who is passionate for making error-free websites. I'm a self learner and positive person. I love to do coding and solve problems.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedrijon&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrijon" /> </p>
 
