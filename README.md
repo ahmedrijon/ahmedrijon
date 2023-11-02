@@ -1,11 +1,11 @@
-<h1 align="center">Hi there 👋 This is Rejoan Ahmed.</h1>
+<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> This is Rejoan Ahmed.</h1>
 <h3 align="center">I'm a Full-stack Web developer and also a software developer who is passionate for making error-free websites. I'm a self-learner and positive person. I love to do coding and solve problems.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmedrijon&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedrijon" /> </p>
 
-- 🔭 I’m currently a **Student**
+- 🔭 I’m currently a **Software Engineer**
 
-- 💬 Ask me about **Web Design And Development**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 To reach me **rejoan.rijon@gmail.com**
 
