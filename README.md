@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 This is Rejoan Ahmed.</h1>
-<h3 align="center">I'm a Full-stack Web developer and also a software developer who is passionate for making error-free websites. I'm a self-learner and positive person. I love to do coding and solve problems.</h3>
+<h3 align="center">I'm a self-learner and positive person.</h3>
 
 
 - 🌱 I’m currently learning **Asp .Net Core MVC**
